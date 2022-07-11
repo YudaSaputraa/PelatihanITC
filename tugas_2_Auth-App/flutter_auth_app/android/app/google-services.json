@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995782712176",
+    "project_id": "itc-authapp",
+    "storage_bucket": "itc-authapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995782712176:android:4b322dbbe2d98390f50db5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995782712176-d8pevl5mjh8roorf5dfaie6o77t74gp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOHd7nO-volgJ_KJSkTn5v5PmFiW5EJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995782712176-d8pevl5mjh8roorf5dfaie6o77t74gp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
